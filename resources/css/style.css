@@ -21,3 +21,10 @@ a {
 a.active {
   color: white;
 }
+
+.footer {
+  text-align: left;
+  background-color: dimgray;
+  color: white;
+  font-size: 11px;
+}
