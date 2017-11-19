@@ -2,3 +2,9 @@ body {
   text-align: center;
   font-family: helvetica, arial, sans-serif;
 }
+
+.header {
+  background-image: url("../../resources/images/the-flatiron-building.png");
+  font-weight: bold;
+  color: white;
+}
