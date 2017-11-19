@@ -8,3 +8,16 @@ body {
   font-weight: bold;
   color: white;
 }
+
+h1 {
+  font-size: 70px;
+}
+
+a {
+  font-size: 18px;
+  color: white;
+}
+
+a.active {
+  color: white;
+}
